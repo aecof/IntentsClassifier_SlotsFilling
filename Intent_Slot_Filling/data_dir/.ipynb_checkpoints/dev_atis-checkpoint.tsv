@@ -1,0 +1,501 @@
+sentence	intent
+BOS i want to fly from boston at 838 am and arrive in denver at 1110 in the morning EOS	13
+BOS show me all round trip flights between houston and las vegas EOS	13
+BOS i would like some information on a flight from denver to san francisco on united airlines EOS	13
+BOS what are the coach flights between dallas and baltimore leaving august tenth and returning august twelve EOS	13
+BOS i'm flying from boston to the bay area EOS	13
+BOS okay can you tell me the flight cost between denver and atlanta EOS	13
+BOS from montreal to las vegas EOS	13
+BOS what is the earliest breakfast flight from philadelphia to fort worth EOS	13
+BOS flights from pittsburgh to baltimore between 10 am and 2 pm EOS	13
+BOS what is the latest flight departing from boston to san francisco EOS	13
+BOS flights from ontario to florida EOS	13
+BOS i would like to know the first class fare on a flight from baltimore to denver EOS	2
+BOS okay that sounds great let's go from atlanta on april twenty one in the morning to dallas least expensive fare one way EOS	13
+BOS show me the prices of all flights from atlanta to washington dc EOS	2
+BOS flights from cincinnati to o'hare departing after 718 am american EOS	13
+BOS i'm interested in a flight from pittsburgh to atlanta EOS	13
+BOS i am interested in booking an early morning flight from dallas into houston on february twenty second and returning late in the evening of february twenty second EOS	13
+BOS i'm looking for a flight from oakland to denver with a stopover in dallas fort worth EOS	13
+BOS what's restriction ap68 EOS	24
+BOS what types of ground transportation are available in philadelphia EOS	20
+BOS what does the abbreviation co mean EOS	25
+BOS a first class flight on american to san francisco on the coming tuesday EOS	13
+BOS please list the flights from baltimore to san francisco on fridays EOS	13
+BOS what flights return from denver to philadelphia on a saturday EOS	13
+BOS on united airlines flying from denver to san francisco before 10 am what type of aircraft is used EOS	13
+BOS i need a flight from atlanta to baltimore nonstop arriving at 7 pm please EOS	13
+BOS what are the cheapest round trip flights from denver to atlanta EOS	13
+BOS does continental fly from denver to san francisco EOS	13
+BOS i would like a nonstop flight from st. petersburg to charlotte leaving in the afternoon EOS	13
+BOS on continental airlines any class service from san francisco to pittsburgh EOS	13
+BOS find me the cheapest flight from boston to washington EOS	13
+BOS well i'll try last time tell me the kind of aircraft united airlines flies from denver to san francisco before 10 o'clock in the morning EOS	0
+BOS show me the northwest flights from detroit to st. petersburg EOS	13
+BOS morning flights from pittsburgh to atlanta on wednesday EOS	13
+BOS show me flights first class from san francisco to pittsburgh leaving on tuesday after 8 o'clock in the morning and before 12 noon EOS	13
+BOS what's the most expensive way i can fly to washington EOS	13
+BOS show me the cheapest one way fare from baltimore to dallas EOS	2
+BOS flights from boston flights from philadelphia to boston on monday EOS	13
+BOS list nonstop flights from houston to dallas which arrive before midnight EOS	13
+BOS i need a flight to seattle leaving from baltimore making a stop in minneapolis EOS	13
+BOS philadelphia to san francisco please EOS	13
+BOS airline that stands for dl EOS	5
+BOS i'd like a cheap flight from dallas to baltimore on january first EOS	13
+BOS what flights are available friday from san francisco to boston EOS	13
+BOS show me saturday and sunday's flights from milwaukee to phoenix on american airlines EOS	13
+BOS what flights from st. paul to kansas city on friday with lunch served EOS	13
+BOS what flights from toronto to philadelphia EOS	13
+BOS what flights leave from atlanta to boston on june twenty ninth in the afternoon EOS	13
+BOS what flights leave la guardia for san jose and arrive 10 pm EOS	13
+BOS list the total number of flights to all airports by delta EOS	23
+BOS can you tell me the time a flight would leave from atlanta to boston in the afternoon EOS	18
+BOS show me the united airlines flights from denver to baltimore leaving on june fourteenth EOS	13
+BOS please list all flights from dallas to philadelphia on monday EOS	13
+BOS show me the flights from cleveland to memphis EOS	13
+BOS please give me flights from atlanta to boston on wednesday and thursday EOS	13
+BOS show me ground transportation in philadelphia on monday morning EOS	20
+BOS what delta leaves boston for atlanta EOS	13
+BOS find me the earliest boston departure and the latest atlanta return trip so that i can be on the ground the maximum amount of time in atlanta and return to boston on the same day EOS	13
+BOS show me flights from boston to washington leaving july fifteen EOS	13
+BOS i would like the time of your earliest flight in the morning from philadelphia to washington on american airlines EOS	18
+BOS show me the flights from baltimore to boston EOS	13
+BOS please list the flight schedule from baltimore to san francisco on friday nights EOS	18
+BOS how long is a trip from philadelphia airport to downtown philadelphia EOS	12
+BOS sure i'd like to determine what aircraft are use on july seventh leaving from boston and arriving in atlanta on july seventh EOS	0
+BOS baltimore to philadelphia EOS	13
+BOS what are the flights and fares from atlanta to philadelphia EOS	14
+BOS united airlines flights stopping in denver EOS	13
+BOS what flights are available wednesday afternoon from denver to san francisco EOS	13
+BOS round trip fares from denver to philadelphia less than 1000 dollars EOS	2
+BOS list the first class flights from baltimore to denver EOS	13
+BOS what are the fares from newark to la monday and wednesday EOS	2
+BOS what flights from chicago to kansas city EOS	13
+BOS please show me flights from dallas to atlanta on monday EOS	13
+BOS flights to baltimore EOS	13
+BOS show me the latest flight to love field EOS	13
+BOS how many of delta's night flights are first class EOS	23
+BOS on united airlines give me the flight times from boston to dallas EOS	18
+BOS show me the ground transportation schedule in philadelphia in the morning on wednesday EOS	20
+BOS what is the last flight from boston to atlanta EOS	13
+BOS what flights fly from denver to san francisco on monday tuesday wednesday thursday and friday EOS	13
+BOS show me the flights from boston to philadelphia EOS	13
+BOS i also need to go to san francisco on wednesday evening from dallas EOS	13
+BOS from kansas city to salt lake city on delta arrive around 8 pm tomorrow EOS	13
+BOS in new york i'll need to rent a car EOS	20
+BOS show me flights from denver to boston on thursday EOS	13
+BOS i would like to book a flight from charlotte to baltimore on april eighth EOS	13
+BOS flights from oakland to san francisco on january twenty first 1992 EOS	13
+BOS how much is a limousine between dallas fort worth international airport and dallas EOS	19
+BOS is there a flight from boston to san francisco making a stopover in dallas fort worth EOS	13
+BOS what time are the flights from baltimore to san francisco EOS	18
+BOS from las vegas to phoenix departing in the morning EOS	13
+BOS how many passengers can a boeing 737 hold EOS	8
+BOS i would like a flight that leaves on friday from philadelphia to dallas that makes a stop in atlanta EOS	13
+BOS thank you for that information now i would like information on a flight on april sixteen from atlanta to philadelphia early in the morning EOS	13
+BOS what time is the last flight from washington to san francisco EOS	18
+BOS show me the least expensive flight leaving miami on sunday after 12 o'clock noon and arriving cleveland EOS	13
+BOS what do you have tomorrow morning from pittsburgh to atlanta EOS	13
+BOS how much is the cheapest flight from denver to pittsburgh EOS	2
+BOS what is the cheapest one way fare from pittsburgh to atlanta traveling on tuesday august twentieth EOS	2
+BOS show me the flights from denver to san diego leaving after 5 pm EOS	13
+BOS what is the latest first class flight of the day leaving dallas for san francisco EOS	13
+BOS show me a list of flights from pittsburgh to baltimore on august third EOS	13
+BOS show morning flights from san francisco to pittsburgh EOS	13
+BOS what are the flights from memphis to tacoma EOS	13
+BOS can you list all nonstop flights between st. petersburg and charlotte that leave in the afternoon and arrive soon after 5 pm EOS	13
+BOS show me all united flights from denver to san francisco for september first 1991 EOS	13
+BOS are there wednesday morning flights between pittsburgh and boston EOS	13
+BOS list all american airlines from milwaukee to phoenix on saturday EOS	13
+BOS give me the flights on december twenty seventh with the fares from indianapolis to orlando EOS	13
+BOS okay all right do you have a flight on united airlines from atlanta to washington EOS	13
+BOS show flights from denver to oakland arriving between 12 and 1 o'clock EOS	13
+BOS list all nonstop flights on sunday from tampa to charlotte EOS	13
+BOS i would like to make a one way flight from boston to atlanta EOS	13
+BOS is there a flight in the afternoon from philadelphia that arrives in the evening in denver EOS	13
+BOS what is the first flight from atlanta to baltimore that serves lunch EOS	13
+BOS list list flights between oakland and denver EOS	13
+BOS please give me a flight from boston to atlanta before 10 am in the morning EOS	13
+BOS list the nonstop flights early tuesday morning from dallas to atlanta EOS	13
+BOS what's the lowest round trip fare from denver to pittsburgh EOS	2
+BOS please arrange a flight for me from denver to san francisco on us air EOS	13
+BOS i would like to see information for flights from san francisco leaving after 12 pm to pittsburgh on monday EOS	13
+BOS show me the cheapest flight from pittsburgh to atlanta on wednesday which leaves before noon and serves breakfast EOS	13
+BOS what is the earliest flight from washington to san francisco EOS	13
+BOS list flights from pittsburgh to los angeles which leave on thursday after 5 pm EOS	13
+BOS list the flights from new york to miami on a tuesday which are nonstop and cost less than 466 dollars EOS	13
+BOS list flights from denver to san francisco no denver to philadelphia EOS	13
+BOS i need to find a plane from boston to san francisco on friday EOS	0
+BOS what does lax stand for EOS	25
+BOS show prices for all flights from baltimore to dallas on july twenty ninth EOS	2
+BOS what flights are available from boston to washington late monday evening or early tuesday morning EOS	13
+BOS what flights from washington dc to toronto EOS	13
+BOS all flights from boston to washington dc on november eleventh before 10 am EOS	13
+BOS list all flights from denver to philadelphia EOS	13
+BOS i need a list of late afternoon flights from st. louis to chicago EOS	13
+BOS show me the airlines for flights to or from love field EOS	5
+BOS do you have any flights from chicago to indianapolis EOS	13
+BOS what does yn stand for EOS	25
+BOS shortest flights from nashville to st. petersburg EOS	13
+BOS what are the fares for flights between atlanta and dfw EOS	2
+BOS list the fares of midway airlines flights from boston to philadelphia EOS	2
+BOS round trip fares from denver to philadelphia less than 1000 dollars EOS	2
+BOS is there a continental flight leaving from las vegas to new york nonstop EOS	13
+BOS i need the cost of a ticket going from denver to baltimore a first class ticket on united airlines EOS	2
+BOS show me fares from philadelphia to san francisco on thursday morning EOS	2
+BOS show me the round trip flights between phoenix and salt lake city EOS	13
+BOS show me all the flights from denver to baltimore arriving may tenth EOS	13
+BOS find the cheapest one way fare from boston to san francisco EOS	2
+BOS show me the flights from boston to san francisco EOS	13
+BOS please show me the flights from boston to san francisco EOS	13
+BOS show me the airlines from love field EOS	5
+BOS show business class fares on us air from boston to toronto EOS	2
+BOS what is the latest flight leaving las vegas for ontario EOS	13
+BOS flights from las vegas to phoenix EOS	13
+BOS does flight ua 270 from denver to philadelphia have a meal EOS	13
+BOS what nonstop flights are available from oakland to philadelphia arriving between 5 and 6 pm EOS	13
+BOS give me the flights for american airline from philadelphia to dallas EOS	13
+BOS show me the evening flights from atlanta to washington on wednesdays EOS	13
+BOS i would like a coach class seat on a flight leaving denver arriving atlanta EOS	13
+BOS can you list all the flights between phoenix and las vegas EOS	13
+BOS show me the qx fare flights between atlanta and oakland on delta airlines EOS	13
+BOS what afternoon flights are available between denver and dallas fort worth EOS	13
+BOS fares and flights from pittsburgh to philadelphia EOS	2
+BOS can you tell me what airline flies between denver and san francisco EOS	5
+BOS how many flights does each airline have with booking class k EOS	23
+BOS great now what i want to find out is on april twentieth from washington to denver do you have a flight least expensive fare around 5 o'clock in the morning EOS	13
+BOS show me all direct flights from san francisco to boston departing before noon EOS	13
+BOS i need a flight on thursday before 8 am from oakland to salt lake city EOS	13
+BOS show me all the types of aircraft EOS	0
+BOS i want a flight on continental from boston to san francisco EOS	13
+BOS show flights from pittsburgh into san francisco EOS	13
+BOS what city is mco EOS	10
+BOS how many cities are served by american airline with first class flights EOS	23
+BOS could you please show me all flights from charlotte to milwaukee EOS	13
+BOS what flights depart san francisco after 4 pm and fly to washington via indianapolis EOS	13
+BOS i would like to see the flights from denver to philadelphia EOS	13
+BOS show me the flights that go from san diego to newark new jersey by way of houston EOS	13
+BOS i would like information on flights from denver to san francisco after noon on wednesday EOS	13
+BOS show me the flights from boston to pittsburgh EOS	13
+BOS show me all flights from san diego to new york nonstop EOS	13
+BOS show me the round trip tickets from baltimore to atlanta EOS	2
+BOS show me the cheapest one way fares from san diego to miami EOS	2
+BOS could you show me all weekday flights from phoenix to denver EOS	13
+BOS i would like to fly from boston to philadelphia next thursday EOS	13
+BOS i'm planning a trip to pittsburgh and i live in denver can you help me EOS	13
+BOS i would like to find the least expensive flight from boston to denver EOS	13
+BOS i would like to go from atlanta to denver on tuesday EOS	13
+BOS atlanta to pittsburgh july twenty third EOS	13
+BOS show me the flights from boston to atlanta EOS	13
+BOS what airlines fly from burbank to denver EOS	5
+BOS okay we're going from washington to denver first class ticket i'd like to know the cost of a first class ticket EOS	2
+BOS i wish to book a flight from pittsburgh to atlanta coach discount fare EOS	13
+BOS is it possible for me to fly from baltimore to san francisco EOS	13
+BOS i want to fly from denver to san francisco with at least one stop EOS	13
+BOS how many us air flights leave from washington EOS	23
+BOS please list any flight available leaving oakland california tuesday arriving philadelphia wednesday EOS	13
+BOS i'd like to find a flight from las vegas to detroit michigan that leaves in the afternoon on monday EOS	13
+BOS are there any flights from denver to pittsburgh with stops in atlanta EOS	13
+BOS i'd like to know the information from boston to philadelphia nonstop EOS	13
+BOS show me all flights from denver to philadelphia on saturday after sunday which leave after noon EOS	13
+BOS what are the flights from dallas to baltimore EOS	13
+BOS do you have a flight from san francisco to atlanta around 8 am EOS	13
+BOS what flights from seattle to salt lake city EOS	13
+BOS what is the cheapest flight from boston to bwi EOS	13
+BOS are there any flights from new york to los angeles which stop over in milwaukee EOS	13
+BOS what is the earliest flight from oakland to washington dc on sunday EOS	13
+BOS are there any turboprop flights from pittsburgh to baltimore on december seventeenth EOS	13
+BOS show me the morning flights from boston to philadelphia EOS	13
+BOS newark to cleveland daily EOS	13
+BOS evening flights from philadelphia to oakland EOS	13
+BOS show me prices and times for first class travel from baltimore to dallas next summer EOS	2
+BOS what kind of plane flies from boston to pittsburgh after noon EOS	0
+BOS i'd like to know what flights united airline has from dallas to san francisco EOS	13
+BOS show me morning flights from toronto EOS	13
+BOS what ground transportation is available at the boston airport EOS	20
+BOS where do the flights from boston to oakland stop EOS	7
+BOS show me the earliest flight from boston to san francisco EOS	13
+BOS flights from la guardia or jfk to cleveland EOS	13
+BOS find the cheapest one way fare from boston to san francisco EOS	2
+BOS what are the flights from washington dc to denver EOS	13
+BOS give me information on flights from atlanta to washington dc on wednesday after 4 pm and thursday before 9 am EOS	13
+BOS flights between baltimore and washington dc EOS	13
+BOS what fare codes cover flights from philadelphia to san francisco EOS	25
+BOS are there any flights from boston to oakland that stop EOS	13
+BOS list departure times from denver to philadelphia which are later than 10 o'clock and earlier than 2 pm EOS	18
+BOS are there any airlines that have flights from boston to philadelphia that leave before 630 am EOS	5
+BOS how many first class flights does united have today EOS	23
+BOS please show me the flights available from san francisco to pittsburgh on tuesday EOS	13
+BOS i'm in miami and i'd like to travel to las vegas on sunday EOS	13
+BOS show me flights from denver to philadelphia EOS	13
+BOS i would like to fly from pittsburgh to atlanta on us air at the latest time possible in the evening EOS	13
+BOS show me all flights from dallas to pittsburgh which leave on monday after 8 o'clock am EOS	13
+BOS are there any nonstop flights leaving from denver arriving in baltimore on july seventh EOS	13
+BOS list round trip flights between boston and oakland using twa EOS	13
+BOS what are the sunday flights from oakland to washington dc EOS	13
+BOS what flights are there on sunday from seattle to minneapolis EOS	13
+BOS what flights from las vegas to montreal on saturday EOS	13
+BOS what is the fare on continental 271 from dallas to san francisco EOS	2
+BOS show me flights denver to washington dc on thursday EOS	13
+BOS what type of ground transportation is available at philadelphia airport EOS	20
+BOS flights from phoenix to milwaukee on wednesday evening EOS	13
+BOS show me the last flight from love field EOS	13
+BOS can you list all flights that depart from orlando to kansas city EOS	13
+BOS i want to fly from kansas city to chicago next wednesday arriving in the evening and returning the next day EOS	13
+BOS what is the ground transportation available in the city of fort worth EOS	20
+BOS i need a flight from baltimore to seattle that stops in minneapolis EOS	13
+BOS what is the latest flight you have departing dallas to philadelphia EOS	13
+BOS show me the flights from atlanta to philadelphia EOS	13
+BOS show me the flights arriving at love field from other airports EOS	13
+BOS what does ewr stand for EOS	25
+BOS what flights from denver to salt lake city EOS	13
+BOS please give me the flight times the morning on united airlines for september twentieth from philadelphia to san francisco EOS	18
+BOS what is the earliest arrival in salt lake city of a flight from toronto EOS	13
+BOS i'd like to see all the flights from boston to philadelphia EOS	13
+BOS what is fare code c EOS	25
+BOS what kind of aircraft does delta fly before 8 am on august second from boston to denver EOS	0
+BOS flight from denver to san francisco in the afternoon EOS	13
+BOS what is the first flight from boston to stapleton airport for tomorrow EOS	13
+BOS i need to know what flights leave atlanta on sunday evening and arrive in baltimore EOS	13
+BOS what are the flights from milwaukee to orlando on wednesday EOS	13
+BOS what is the cheapest fare between denver and boston EOS	2
+BOS what airlines have business class EOS	5
+BOS i need a flight from san francisco to pittsburgh and then pittsburgh to new york and new york to san francisco EOS	13
+BOS what flights are there between washington dc and san francisco leaving washington after 6 pm on wednesday EOS	13
+BOS what type of aircraft does eastern fly from atlanta to denver before 6 pm EOS	0
+BOS i would like the flights available from boston to denver arriving in denver on 9 o'clock wednesday morning on or by 9 o'clock wednesday morning EOS	13
+BOS what ground transportation is available at the baltimore airport EOS	20
+BOS show me flights from atlanta to baltimore denver and dallas EOS	13
+BOS what flights are there from minneapolis to chicago EOS	13
+BOS flights from denver to pittsburgh on thursday EOS	13
+BOS may i have a list of flights going from boston to denver on the twenty ninth of july EOS	13
+BOS what flights are there between nashville and st. louis which are nonstop and arrive after noon and before 8 pm EOS	13
+BOS please list the flight times for boston to pittsburgh EOS	18
+BOS flight leaving from oakland to salt lake city EOS	13
+BOS what are the different classes that an airline offers EOS	13
+BOS could you tell me if there is ground transportation between the boston airport and boston downtown EOS	20
+BOS ground transportation denver EOS	20
+BOS what are the prices of the flights from atlanta to dallas in the morning EOS	2
+BOS how long does it take to fly from boston to atlanta EOS	12
+BOS please list the friday afternoon flights from san jose to dallas on american airlines EOS	13
+BOS is there an american airlines flight in the evening from dallas to san francisco EOS	13
+BOS what ground transportation is available in denver EOS	20
+BOS show me the fares from dallas to san francisco EOS	2
+BOS in pittsburgh i'd like to rent a car EOS	20
+BOS i would like to find a flight that goes from tampa to montreal making a stop in new york and a flight that serves lunch EOS	13
+BOS please give me flights from atlanta to boston on wednesday afternoon and thursday morning EOS	13
+BOS can you list all flights leaving from st. louis and arriving in milwaukee EOS	13
+BOS flights from montreal to las vegas EOS	13
+BOS give me the flights from chicago to seattle on saturday morning EOS	13
+BOS what is airline nw EOS	5
+BOS i need a flight tonight from charlotte to las vegas with a stop in st. louis and i want dinner EOS	13
+BOS what's the latest flight out of denver that arrives in pittsburgh next monday EOS	13
+BOS please list the flights taking off and landing on general mitchell international airport EOS	13
+BOS what limousine service is in boston EOS	20
+BOS what is fare code y mean EOS	25
+BOS are there delta flights leaving denver EOS	13
+BOS on thursday i'd like a flight from st. petersburg to miami EOS	13
+BOS when do planes leave boston for EOS	13
+BOS what flights are there wednesday morning from atlanta to philadelphia EOS	13
+BOS show me all flights from san francisco to boston philadelphia or baltimore EOS	13
+BOS what type of aircraft is used on the first flight from philadelphia to dallas in the morning EOS	0
+BOS what are the flights from pittsburgh to oakland EOS	13
+BOS list the morning flights at a 124 dollars from atlanta to boston EOS	13
+BOS all flights from miami to new york EOS	13
+BOS show flights from denver to oakland EOS	13
+BOS show flights from philadelphia to san francisco EOS	13
+BOS i'd like a flight tomorrow late from nashville to houston with dinner please EOS	13
+BOS show me all prices of economy from baltimore to dallas EOS	2
+BOS i need a flight from montreal quebec to san diego california leaving this sunday EOS	13
+BOS show me the cheapest one way flight from san francisco to boston leaving san francisco after 9 pm EOS	13
+BOS does united airlines have flights between boston and denver EOS	13
+BOS i would like to fly us air from orlando to cleveland in the late evening what do you have available EOS	13
+BOS what are the flights from milwaukee to orlando on wednesday night EOS	13
+BOS show me the flights from newark to los angeles EOS	13
+BOS can you give me the evening flight on wednesday from washington to atlanta again EOS	13
+BOS what are the flights and prices from la to charlotte for monday morning EOS	13
+BOS what first class flights are available on july twenty fifth 1991 from denver to baltimore EOS	13
+BOS show me all flights from pittsburgh to baltimore tomorrow which serve a meal EOS	13
+BOS show me all the flights between philadelphia and denver EOS	13
+BOS flights from phoenix to newark EOS	13
+BOS all flights from pittsburgh to dallas round trip after 12 pm less than 100 EOS	13
+BOS thanks and what's the last flight back from washington to boston EOS	13
+BOS show me the flights from boston to baltimore EOS	13
+BOS what does fare code q mean EOS	25
+BOS show me the flights arriving in baltimore from philadelphia at about 4 o'clock EOS	13
+BOS what is the cheapest fare from baltimore to dallas in any class EOS	2
+BOS give me all nonstops from new york to vegas that arrive on a sunday EOS	13
+BOS what is sa EOS	25
+BOS show me the flights from boston to san francisco EOS	13
+BOS what does fare code qo mean EOS	25
+BOS i need information on flights leaving dallas arriving in boston leaving dallas early in the morning EOS	13
+BOS what is the earliest flight on thursday from atlanta to washington dc EOS	13
+BOS what flights are available saturday to san francisco from dallas EOS	13
+BOS i'd like to fly from boston to san francisco EOS	13
+BOS how many flights does american airlines have from boston to atlanta EOS	23
+BOS does midwest express have any flights from montreal to nashville EOS	13
+BOS show me all economy prices from dallas to baltimore EOS	2
+BOS and how much does it cost to travel from boston airport to downtown EOS	2
+BOS all flights before 10 am boston denver EOS	13
+BOS show me the flights that go from san diego to newark with one stop in houston EOS	13
+BOS show me the earliest flight on wednesday from baltimore to newark EOS	13
+BOS i'd like to book the cheapest one way flight from pittsburgh to atlanta on july twentieth EOS	13
+BOS what does mco mean EOS	25
+BOS show me all the flights from charlotte to cleveland EOS	13
+BOS do you have a flight from salt lake city to st. petersburg EOS	13
+BOS what is the earliest flight from boston to atlanta EOS	13
+BOS i'd like a flight tomorrow from kansas city to newark in the morning EOS	13
+BOS show me all flights from boston to detroit EOS	13
+BOS show me the flights arriving in baltimore on june fifteenth leaving either from denver or dallas EOS	13
+BOS show me the flights from love field to other airports EOS	13
+BOS what is the earliest flight i can get from baltimore to boston EOS	13
+BOS what is the round trip thrift fare on us air from boston to san francisco EOS	2
+BOS show me flights from los angeles to pittsburgh on monday evening EOS	13
+BOS i would like a flight from atlanta to denver EOS	13
+BOS give me all the flights from memphis to charlotte EOS	13
+BOS from philadelphia to toronto EOS	13
+BOS newark to cleveland EOS	13
+BOS list all american airline flights which leave phoenix on wednesday and stop at milwaukee EOS	13
+BOS show me all flights from pittsburgh to baltimore tomorrow EOS	13
+BOS is there a direct flight from denver to pittsburgh in the morning of august thirty first that is nonstop EOS	13
+BOS which airline offers the cheapest rate going from dallas to baltimore on july fourth EOS	5
+BOS does midwest express serve charlotte EOS	13
+BOS show me all the flights from philadelphia to san francisco EOS	13
+BOS ground transportation in denver EOS	20
+BOS show me all flights from boston to dallas fort worth both direct and connecting that arrive before noon EOS	13
+BOS show flights from philadelphia to dallas on saturday EOS	13
+BOS and flights leaving from atlanta to oakland leaving after 5 pm EOS	13
+BOS okay and on may four i would like to go from atlanta to denver leaving early in the morning around 8 EOS	13
+BOS all flights from boston to washington dc on november eleventh EOS	13
+BOS what are the early morning flights from boston to denver EOS	13
+BOS what is the cheapest flight from denver to pittsburgh leaving on september twenty eighth EOS	13
+BOS flight from dallas to oakland california on monday EOS	13
+BOS i would like to fly from dallas to san francisco on saturday and arrive in san francisco before 4 pm EOS	13
+BOS morning flights out of san francisco arriving boston afternoon EOS	13
+BOS i'd like to see flights from baltimore to atlanta that arrive before noon EOS	13
+BOS find me the earliest boston departure for atlanta and the lastest return trip from atlanta so that i can be in atlanta the longest amount of time but return to boston the same day EOS	13
+BOS please give me the cheapest round trip airfare from atlanta to philadelphia on august the first EOS	2
+BOS i would like information on flights from philadelphia to oakland california on friday afternoon EOS	13
+BOS what afternoon flights are available from pittsburgh to atlanta on a weekday EOS	13
+BOS show ground transportation in denver EOS	20
+BOS please show me airlines with flights from denver to boston with stop in philadelphia EOS	5
+BOS dallas to baltimore EOS	13
+BOS rental cars in washington dc EOS	20
+BOS does american airlines fly to san francisco from atlanta EOS	13
+BOS kindly give me the type of aircraft used to fly from atlanta to denver EOS	0
+BOS give me flights from denver to baltimore EOS	13
+BOS what is fare class h EOS	25
+BOS what is the earliest flight from washington to san francisco on friday that serves breakfast EOS	13
+BOS what flights are there from atlanta to washington early on thursday mornings EOS	13
+BOS what kind of ground transportation is there in dallas EOS	20
+BOS could i have a list of flights in first class on monday from san francisco to pittsburgh starting at noon and afterwards EOS	13
+BOS how much is a us air boston to pittsburgh daily nonstop flight EOS	2
+BOS i'd like to go from boston to atlanta sometime after 5 pm can you tell me the flights that could do that for me EOS	13
+BOS what's fare code yn EOS	25
+BOS airports in new york EOS	7
+BOS i'd like to arrange for two friends to fly into los angeles next saturday evening one of the people is coming from kansas city and the other is coming from las vegas EOS	13
+BOS show me all overnight flights from washington dc to san francisco and list their fares EOS	13
+BOS what ground transportation is there in atlanta EOS	20
+BOS flights from pittsburgh to baltimore arriving between 4 and 5 pm EOS	13
+BOS what does fare code qw mean EOS	25
+BOS show flights from new york city to las vegas EOS	13
+BOS i need information for ground transportation denver colorado EOS	20
+BOS list the flight from philadelphia to san francisco on american airlines EOS	13
+BOS show me the airlines for flights to or from love field EOS	5
+BOS list nonstop flights from san francisco to oakland that depart in the afternoon EOS	13
+BOS which airline serves denver pittsburgh and atlanta EOS	5
+BOS how many first class flights does delta airlines have EOS	23
+BOS please show flights arriving in philadelphia from denver EOS	13
+BOS now show me the flights from pittsburgh to baltimore EOS	13
+BOS show me flights from milwaukee to orlando on wednesday night or thursday morning EOS	13
+BOS i would like to fly delta airlines from atlanta to pittsburgh EOS	13
+BOS what is fare code f EOS	25
+BOS what are the flights for united airlines on september twentieth in the morning EOS	13
+BOS show all airlines with flights between denver and dallas EOS	5
+BOS cheapest fare from nashville to seattle EOS	2
+BOS how many flights does american airlines have with a class of service code f EOS	23
+BOS find a nonstop flight between boston and washington arriving in washington around 5 pm EOS	13
+BOS pittsburgh to baltimore please on january one EOS	13
+BOS show me the costs and times for flights from san francisco to atlanta EOS	4
+BOS what airlines fly from boston to denver EOS	5
+BOS what ground transportation is there in atlanta EOS	20
+BOS how far from the airport in the dallas fort worth airport is dallas EOS	12
+BOS list all flights from tampa florida to miami that are the cheapest one way EOS	13
+BOS show me the flights from philadelphia to baltimore EOS	13
+BOS ground transportation in denver EOS	20
+BOS please list all flights from atlanta to baltimore on wednesday and thursday EOS	13
+BOS does flight dl 1083 from philadelphia to denver fly on saturdays EOS	13
+BOS i would like to book a flight going from tampa to seattle on may twenty sixth i would like to stop in milwaukee on the way EOS	13
+BOS i want to fly from boston to atlanta i would like the cheapest fare please EOS	13
+BOS show me the flights from montreal to philly EOS	13
+BOS what flights are available sunday afternoon from oakland to dallas EOS	13
+BOS explain the restriction ap 80 EOS	25
+BOS i want to go from baltimore to san francisco with a stopover in denver EOS	13
+BOS information on a flight from san francisco to philadelphia EOS	13
+BOS shortest morning flights from cincinnati to tampa EOS	13
+BOS what are the flights from boston to washington on october fifteenth 1991 EOS	13
+BOS what flights are there on wednesday evening from denver to sfo EOS	13
+BOS show me a list of flights on american airlines from boston to dc on july twenty second EOS	13
+BOS us air 269 leaving boston at 428 what is the arrival time in baltimore EOS	13
+BOS i would like information on flights leaving early monday morning from atlanta to baltimore EOS	13
+BOS now show me the flights from memphis to cleveland EOS	13
+BOS what flights leave from nashville to phoenix EOS	13
+BOS show me the air fare for the flights from baltimore to dallas EOS	2
+BOS what are the flights from denver to san francisco EOS	13
+BOS which airlines go from san francisco to washington by way of indianapolis EOS	5
+BOS all flights from washington dc to san francisco on november twelfth EOS	13
+BOS round trip fares from pittsburgh to philadelphia under 1000 dollars EOS	2
+BOS show nonstop flights from new york to miami on a tuesday which cost less than 466 dollars one way EOS	13
+BOS i'd like flights on american airlines from philadelphia to dallas arriving before 1145 am EOS	13
+BOS show business class fares from san francisco to denver on united airlines EOS	2
+BOS what is the earliest flight between logan and bwi EOS	13
+BOS describe pittsburgh airport EOS	7
+BOS show flights on us air from pittsburgh to oakland connecting through denver EOS	13
+BOS list all nonstop flights on tuesday before noon from charlotte to baltimore EOS	13
+BOS minneapolis to phoenix on monday EOS	13
+BOS please list me the flights and their cost of all airlines flying from denver to baltimore EOS	14
+BOS what airline uses the code hp EOS	5
+BOS find a flight from san francisco to boston on wednesday EOS	13
+BOS could you tell me about ground transportation arrangements from the dallas airport to downtown dallas EOS	20
+BOS display all flights from pittsburgh to san francisco on august second EOS	13
+BOS give me morning flights from charlotte to baltimore EOS	13
+BOS anything from baltimore or washington with a stopover in denver going to san francisco EOS	13
+BOS show me flights from boston to denver EOS	13
+BOS show me the flights from columbus to charlotte EOS	13
+BOS i need a flight from new york city to montreal thursday may six EOS	13
+BOS philadelphia to san francisco EOS	13
+BOS what is the earliest flight from boston to san francisco EOS	13
+BOS is there a limousine service available from the pittsburgh airport EOS	20
+BOS boston ground transportation EOS	20
+BOS the earliest flight from boston to san francisco please that will be serving a meal EOS	13
+BOS what does code qw mean EOS	25
+BOS what airline is hp EOS	5
+BOS what are the costs of car rental in dallas EOS	19
+BOS show me the flights leaving saturday or sunday from milwaukee to phoenix EOS	13
+BOS i'm interested in a flight from pittsburgh to atlanta EOS	13
+BOS flights from kansas city to cleveland on wednesday EOS	13
+BOS is there a nonstop flight from denver to san francisco EOS	13
+BOS display all flights from san francisco to boston on august eighth EOS	13
+BOS which airlines have flights between philadelphia and pittsburgh EOS	5
+BOS i want to go from boston to atlanta on monday EOS	13
+BOS what is the next flight from pittsburgh to san francisco after delta flight 1059 EOS	13
+BOS show me the least expensive flight from miami to cleveland on sunday after noon EOS	13
+BOS what type of aircraft is used flying from atlanta to denver before 12 noon EOS	0
+BOS show me all flights from boston to atlanta which leave atlanta after noon tomorrow EOS	13
+BOS how much does it cost to rent a car in tacoma EOS	19
+BOS what kind of airplane is flight ua 270 from denver to philadelphia EOS	0
+BOS list all flights from boston to atlanta before 5 o'clock am on thursday EOS	13
+BOS i'd like the earliest flight from dallas to boston EOS	13
+BOS show me the flights on delta from atlanta in the morning EOS	13
+BOS what flights from salt lake city to las vegas EOS	13
+BOS show me the list of flights between philadelphia and denver that leave in the afternoon EOS	13
+BOS what is the fare from atlanta to boston on coach one way EOS	2
+BOS how many fares are there one way from tacoma to montreal EOS	23
+BOS i would like to know some information on flights leaving philadelphia arriving in pittsburgh in the afternoon EOS	13
+BOS what flights are available from pittsburgh to boston on wednesday of next week EOS	13
+BOS is there a flight on continental airlines from boston to denver EOS	13
+BOS pm flights dallas to atlanta EOS	13
+BOS information on flights from baltimore to philadelphia EOS	13
+BOS what flights from atlanta to st. louis on tuesday arriving around 230 pm EOS	13
+BOS show me ground transportation in san francisco EOS	20
+BOS what flights do you have from newark new jersey to ontario california that connect in phoenix EOS	13

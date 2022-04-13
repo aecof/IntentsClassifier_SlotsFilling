@@ -1,0 +1,9 @@
+torch == 1.10
+torch-summary
+nltk == 3.6.5
+numpy
+seaborn
+matplotlib
+pandas
+sklearn
+tqdm
