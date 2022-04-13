@@ -1,7 +1,0 @@
-setup.py
-aecof_nlu.egg-info/PKG-INFO
-aecof_nlu.egg-info/SOURCES.txt
-aecof_nlu.egg-info/dependency_links.txt
-aecof_nlu.egg-info/not-zip-safe
-aecof_nlu.egg-info/requires.txt
-aecof_nlu.egg-info/top_level.txt

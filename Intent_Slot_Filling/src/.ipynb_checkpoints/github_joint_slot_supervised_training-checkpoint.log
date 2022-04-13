@@ -1,5 +1,0 @@
-root - INFO - Epoch : 0,  step : 0, loss : 5.994476318359375
-root - INFO - Epoch : 0,  step : 100, loss : 2.559883358478546
-root - INFO - Epoch 0/2, val_loss = 0.732372, val_f1_intent = 0.829653, val_f1_slots = 0.024744
-root - INFO - Epoch : 1,  step : 0, loss : 0.9211868643760681
-root - INFO - Epoch : 1,  step : 100, loss : 0.5150952944159508
